@@ -1,0 +1,19 @@
+total 12
+ 0 drwxrwxrwx 0 ubuntu ubuntu  4096 Oct 20 08:02 .
+ 0 drwxr-xr-x 0 ubuntu ubuntu  4096 Oct 20 08:01 ..
+12 -rw-r--r-- 1 ubuntu ubuntu 12288 Oct  7 12:42 .q5.sh.swp
+ 0 -rwxrwxrwx 1 ubuntu ubuntu   440 Oct 13 19:05 array.sh
+ 0 -rwxrwxrwx 1 ubuntu ubuntu   283 Oct 13 19:01 array_copy.sh
+ 0 -rwxrwxrwx 1 ubuntu ubuntu    67 Oct 13 18:57 array_demo.sh
+ 0 -rw-rw-rw- 1 ubuntu ubuntu     0 Oct 12 21:37 array_merge.sh
+ 0 -rwxrwxrwx 1 ubuntu ubuntu   274 Oct 13 19:09 array_odd.sh
+ 0 drwxrwxrwx 0 ubuntu ubuntu  4096 Oct 14 18:47 assg4
+ 0 -rw-rw-rw- 1 ubuntu ubuntu     0 Oct 20 08:01 filedemo
+ 0 -rw-rw-rw- 1 ubuntu ubuntu     0 Oct 20 08:02 filelist
+ 0 -rw-rw-rw- 1 ubuntu ubuntu     0 Oct 20 08:01 fliedemo
+ 0 -rwxrwxrwx 1 ubuntu ubuntu   404 Oct 13 18:52 intrest.sh
+ 0 -rwxrwxrwx 1 ubuntu ubuntu   103 Oct 13 19:12 merge.sh
+ 0 -rwxrwxrwx 1 ubuntu ubuntu   374 Oct 13 18:43 price.sh
+ 0 -rw-rw-rw- 1 ubuntu ubuntu   466 Oct 13 18:55 q3.sh
+ 0 -rwxrwxrwx 1 ubuntu ubuntu   422 Oct 13 19:15 swap.sh
+ 0 -rw-rw-rw- 1 ubuntu ubuntu     0 Oct  7 12:41 vi
